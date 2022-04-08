@@ -27,7 +27,7 @@ async function handleSearch(){
 }
   return (
     <div className="container">
-      <h1 className="title">Bucascador CEP</h1>
+      <h1 className="title">Buscador CEP</h1>
 
       <div className="ContainerInput">
         <input type="text"
